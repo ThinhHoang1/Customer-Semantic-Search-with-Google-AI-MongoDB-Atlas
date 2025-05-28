@@ -1,0 +1,12 @@
+# Environment variables - VERY IMPORTANT!
+.env
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Streamlit config (if you run locally)
+.streamlit/
